@@ -247,3 +247,4 @@ C:\Users\cho_chit\source\repos\RestApiWithNLayer\RestApiWithNLayer\obj\Debug\net
 C:\Users\cho_chit\source\repos\RestApiWithNLayer\RestApiWithNLayer\obj\Debug\net8.0\RestApiWithNLayer.pdb
 C:\Users\cho_chit\source\repos\RestApiWithNLayer\RestApiWithNLayer\obj\Debug\net8.0\RestApiWithNLayer.genruntimeconfig.cache
 C:\Users\cho_chit\source\repos\RestApiWithNLayer\RestApiWithNLayer\obj\Debug\net8.0\ref\RestApiWithNLayer.dll
+C:\Users\cho_chit\source\repos\RestApiWithNLayer\RestApiWithNLayer\obj\Debug\net8.0\RestApiWithNLayer.sourcelink.json

@@ -3,7 +3,6 @@
     public class DA_Blog
     {
         private readonly AppDbContext _content;
-
         public DA_Blog()
         {
             _content = new AppDbContext();
